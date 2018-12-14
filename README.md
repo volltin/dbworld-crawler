@@ -10,7 +10,7 @@ https://research.cs.wisc.edu/dbworld/browse.html.
 pip install scrapy==1.5.1
 ```
 
-## Run
+## Usage
 
 ```shell
 git clone https://github.com/volltin/dbworld-crawler
