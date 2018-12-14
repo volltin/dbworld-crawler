@@ -1,5 +1,9 @@
 # DBWorld Crawler
 
+A simple DBWorld crawler.
+
+https://research.cs.wisc.edu/dbworld/browse.html.
+
 ## Dependencies
 
 ```shell
