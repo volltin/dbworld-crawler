@@ -11,6 +11,7 @@
 
 BOT_NAME = 'dbworld'
 
+LOG_LEVEL = 'INFO'
 SPIDER_MODULES = ['dbworld.spiders']
 NEWSPIDER_MODULE = 'dbworld.spiders'
 
