@@ -3,7 +3,7 @@ python:
   - "3.6"
 
 install:
-  - pip install scrapy==1.5.1
+  - pip install scrapy
 
 script:
   - scrapy crawl dbworld -o items.json
