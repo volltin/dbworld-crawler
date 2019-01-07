@@ -4,6 +4,7 @@ NAME="Travis CI"
 EMAIL="volltin@live.com"
 
 cp items.json ${TMP}
+cp CCF.json ${TMP}
 cd ${TMP}
 git init
 

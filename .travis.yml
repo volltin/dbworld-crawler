@@ -7,4 +7,5 @@ install:
 
 script:
   - scrapy crawl dbworld -o items.json
+  - python3 convert_ccf.py 
   - chmod +x ./commit.sh && ./commit.sh
