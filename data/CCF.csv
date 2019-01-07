@@ -7,7 +7,7 @@
 6,,Concurrency and Computation:Practice and Experience,Wiley,http://dblp.uni-trier.de/db/journals/concurrency/,计算机体系结构/并行与分布计算/存储系统,期刊,C
 7,DC,Distributed Computing,Springer,http://dblp.uni-trier.de/db/journals/dc/,计算机体系结构/并行与分布计算/存储系统,期刊,C
 8,FGCS,Future Generation Computer Systems,Elsevier,http://dblp.uni-trier.de/db/journals/fgcs/,计算机体系结构/并行与分布计算/存储系统,期刊,C
-9,Integration,"Integration, the VLSI Journal",Elsevier,http://dblp.uni-trier.de/db/journals/integration/,计算机体系结构/并行与分布计算/存储系统,期刊,C
+9,,"Integration, the VLSI Journal",Elsevier,http://dblp.uni-trier.de/db/journals/integration/,计算机体系结构/并行与分布计算/存储系统,期刊,C
 10,,Microprocessors and Microsystems:Embedded Hardware Design,Elsevier,http://dblp.uni-trier.de/db/journals/mam/,计算机体系结构/并行与分布计算/存储系统,期刊,C
 11,JGC,The Journal of Grid computing,Springer,http://dblp.uni-trier.de/db/journal/10723,计算机体系结构/并行与分布计算/存储系统,期刊,C
 12,TYSC,The Journal of Supercomputing,Springer,http://dblp.uni-trier.de/db/journals/tjs/,计算机体系结构/并行与分布计算/存储系统,期刊,C
@@ -49,7 +49,7 @@
 48,ICS,International Conference on Supercomputing,ACM,http://dblp.uni-trier.de/db/conf/ics/,计算机体系结构/并行与分布计算/存储系统,会议,B
 49,IPDPS,International Parallel & Distributed Processing Symposium,IEEE,http://dblp.uni-trier.de/db/conf/ipps/,计算机体系结构/并行与分布计算/存储系统,会议,B
 50,FPGA,ACM/SIGDA International Symposium on Field-Programmable Gate Arrays,ACM,http://dblp.uni-trier.de/db/conf/fpga/,计算机体系结构/并行与分布计算/存储系统,会议,B
-51,Performance,"International Symposium on Computer Performance, Modeling, Measurements and Evaluation",ACM,http://dblp.uni-trier.de/db/conf/performance/,计算机体系结构/并行与分布计算/存储系统,会议,B
+51,,"International Symposium on Computer Performance, Modeling, Measurements and Evaluation",ACM,http://dblp.uni-trier.de/db/conf/performance/,计算机体系结构/并行与分布计算/存储系统,会议,B
 52,LISA,Large Installation system Administration Conference,USENIX,http://dblp.uni-trier.de/db/conf/lisa/,计算机体系结构/并行与分布计算/存储系统,会议,B
 53,MSST,Mass Storage Systems and Technologies,IEEE,http://dblp.uni-trier.de/db/conf/mss/,计算机体系结构/并行与分布计算/存储系统,会议,B
 54,PACT,Parallel Architectures and Compilation Techniques,IEEE/ACM,http://dblp.uni-trier.de/db/conf/IEEEpact/,计算机体系结构/并行与分布计算/存储系统,会议,B
@@ -130,7 +130,7 @@
 129,WoWMoM ,IEEE International Symposium on a World of Wireless Mobile and Multimedia Networks ,IEEE ,http://dblp.uni-trier.de/db/conf/wowmom/ ,计算机网络,会议,C
 130,ISCC ,IEEE Symposium on Computers and Communications ,IEEE ,http://dblp.uni-trier.de/db/conf/iscc/ ,计算机网络,会议,C
 131,WCNC ,IEEE Wireless Communications & Networking Conference ,IEEE ,http://dblp.uni-trier.de/db/conf/wcnc/ ,计算机网络,会议,C
-132,Networking ,IFIP International Conferences on Networking ,IFIP ,http://dblp.uni-trier.de/db/conf/networking/index. html ,计算机网络,会议,C
+132,,IFIP International Conferences on Networking ,IFIP ,http://dblp.uni-trier.de/db/conf/networking/index. html ,计算机网络,会议,C
 133,IM ,IFIP/IEEE International Symposium on Integrated Network Management ,IFIP/IEEE ,http://dblp.uni-trier.de/db/conf/im/index.html ,计算机网络,会议,C
 134,MSWiM ,"International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems ",ACM ,http://dblp.uni-trier.de/db/conf/mswim/ ,计算机网络,会议,C
 135,NOMS ,Asia-Pacific Network Operations and Management Symposium ,IFIP/IEEE ,http://dblp.uni-trier.de/db/conf/apnoms/ ,计算机网络,会议,C
@@ -432,7 +432,7 @@
 430,SMI ,Shape Modeling International ,IEEE ,http://dblp.uni-trier.de/db/conf/smi/ ,计算机图形学多媒体,会议,C
 431,INTERSPEECH ,Conference of the International Speech Communication Association , ,http://dblp.uni-trier.de/db/conf/interspeech/index.html ,计算机图形学多媒体,会议,C
 432, ,ACM Symposium on Virtual Reality Software and Technology ,ACM ,http://dblp2.uni-trier.de/db/conf/vrst/,计算机图形学多媒体,会议,C
-433,AI ,Artificial Intelligence ,Elsevier ,http://dblp.uni-trier.de/db/journals/ai/ ,人工智能,期刊,A
+433,,Artificial Intelligence ,Elsevier ,http://dblp.uni-trier.de/db/journals/ai/ ,人工智能,期刊,A
 434,TPAMI ,IEEE Trans on Pattern Analysis and Machine Intelligence ,IEEE ,http://dblp.uni-trier.de/db/journals/pami/ ,人工智能,期刊,A
 435,IJCV ,International Journal of Computer Vision ,Springer ,http://dblp.uni-trier.de/db/journals/ijcv/ ,人工智能,期刊,A
 436,JMLR ,Journal of Machine Learning Research ,MIT Press ,http://dblp.uni-trier.de/db/journals/jmlr/ ,人工智能,期刊,A
@@ -604,3 +604,7 @@ Linguistics
 600,APBC,Asia Pacific Bioinformatics Conference,BioMed Central,http://dblp.uni-trier.de/db/conf/apbc/,交叉/新兴/综合,会议,C
 601,COSIT,International Conference on Spatial Information Theory,ACM,http://dblp.uni-trier.de/db/conf/cosit/,交叉/新兴/综合,会议,C
 602,,IEEE International Conference on Cloud Computing,IEEE,http://dblp.uni-trier.de/db/conf/IEEEcloud/,交叉/新兴/综合,会议,C
+0,WVoT,Web Velocity and the Web of Things,,,会议,N
+0,CBMS,International Symposium on Computer-Based Medical Systems,,,会议,N
+0,WISTP,International Conference on Information Security Theory and Practice,,,会议,N
+
